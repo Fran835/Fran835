@@ -18,7 +18,7 @@ Convierto bases de datos desordenadas en información confiable para tomar decis
 ## 📂 Proyectos
 | Proyecto | Qué muestra |
 |---|---|
-| [Calidad de datos en multas de tránsito](https://github.com/Fran835/TP-Herramientas-de-software) | Limpieza de una base con 4.000 registros llena de errores y análisis de reincidencia |
+| [Calidad de datos en multas de tránsito](https://github.com/Fran835/TP-Herramientas-de-software) *(trabajo grupal, facultad)* | Limpieza de una base con 4.000 registros llena de errores y análisis de reincidencia |
 
 ## 📫 Contacto
 www.linkedin.com/in/francisco-franco-872886378 · francofrancisco820@gmail.com
